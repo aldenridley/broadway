@@ -1,12 +1,10 @@
 body {
   text-align: center;
   font-family: helvetica;
-
 }
 
 h1 {
   font-size: 70px;
-  font-weight: bold;
 }
 
 h2 {
@@ -14,7 +12,32 @@ h2 {
   font-weight: bold;
 }
 
+h2 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
 .bkg {
   background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
   color: white;
+  font-weight: bold;
+}
+
+.prodescrip {
+  font-size: 14px;
+}
+
+.white {
+  color: white;
+}
+
+#copyright {
+  font-size: 11px;
+  color: white;
+}
+
+#color {
+  background-color: dimgray;
+  font-weight: normal;
+  text-align: left;
 }
